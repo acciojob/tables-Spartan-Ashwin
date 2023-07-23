@@ -11,11 +11,19 @@
 	color:white;
 }
 
+
+
 .table-responsive{
 }
 
-tr:hover {background-color: coral;}
+.table-hover {background-color: coral;}
 caption{
 	text-align:left;
 }
 
+.table-light{
+	
+}
+.table{
+	
+}
