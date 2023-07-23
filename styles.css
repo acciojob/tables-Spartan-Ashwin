@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.rightAlign{
+	text-align:right;
+	font-weight:bold;
+	
+}
+
+thead{
+	background-color:black;
+	color:white;
+}
