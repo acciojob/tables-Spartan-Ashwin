@@ -2,11 +2,20 @@
 /* Your CSS Code here. */
 .rightAlign{
 	text-align:right;
-	f
+	
 	
 }
 
-thead{
+.table-dark{
 	background-color:black;
 	color:white;
 }
+
+.table-responsive{
+}
+
+tr:hover {background-color: coral;}
+caption{
+	text-align:left;
+}
+
